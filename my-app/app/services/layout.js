@@ -1,7 +1,8 @@
-export default function RootLayout({ children }) {
+export default function ServiceLayout({ children }) {
   return (
-    <html lang="en">
-      <body>{children}</body>
-    </html>
+    <div>
+      <h3>Services Layout</h3>
+      {children}
+    </div>
   );
 }
