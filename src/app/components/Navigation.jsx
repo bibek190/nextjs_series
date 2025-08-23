@@ -20,6 +20,12 @@ const Navigation = () => {
             <li>
               <Link href="/service">Service</Link>
             </li>
+            <li>
+              <Link href="/clientcomp">ClientComp</Link>
+            </li>
+            <li>
+              <Link href="/servercomp">ServerComp</Link>
+            </li>
           </ul>
         </nav>
       </header>

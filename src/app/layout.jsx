@@ -1,5 +1,5 @@
-import "../../app/globals.css";
-import Navigation from "../components 01-11-36-260/Navigation";
+import "./globals.css";
+import Navigation from "./components/Navigation";
 
 import { Roboto } from "next/font/google";
 import { Noto_Sans } from "next/font/google";
